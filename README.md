@@ -11,14 +11,25 @@ Each record in the database describes a house in Boston suburb or town. The data
 CRIM: Per capita crime rate by town
 
 ZN: Proportion of residential land zoned for lots over 25,000 sq.ft.
+
 INDUS: Proportion of non-retail business acres per town
+
 CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+
 NOX: Nitric Oxide concentration (parts per 10 million)
+
 RM: The average number of rooms per dwelling
+
 AGE: Proportion of owner-occupied units built before 1940
+
 DIS: Weighted distances to five Boston employment centers
+
 RAD: Index of accessibility to radial highways
+
 TAX: Full-value property-tax rate per 10,000 dollars
+
 PTRATIO: Pupil-teacher ratio by town
+
 LSTAT: % lower status of the population
+
 MEDV: Median value of owner-occupied homes in 1000 dollars
